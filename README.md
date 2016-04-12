@@ -1,4 +1,4 @@
 # Instant-Messaging-App
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-# Screenshots here : http://imgur.com/a/xsUqU/
+# Screenshots here : http://imgur.com/a/xsUqU
